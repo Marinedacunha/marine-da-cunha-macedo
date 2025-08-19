@@ -44,5 +44,4 @@ Aspirante em TI → aprender, crescer e contribuir para soluções digitais que 
 📌 Aqui no meu GitHub você vai encontrar meus projetos de estudo e prática, que refletem minha evolução no mundo da tecnologia.
 
 🚀 Vamos conectar?
-[LinkedIn
- | GitHub](https://www.linkedin.com/in/marine-da-cunha-macedo-37652837a/)
+[LinkedIn](https://www.linkedin.com/in/marine-da-cunha-macedo-37652837a/)
